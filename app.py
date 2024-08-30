@@ -12,7 +12,7 @@ import tempfile
 import sounddevice as sd
 import scipy.io.wavfile as wavfile
 
-# Spotify API credentials (replace with your credentials)
+# Spotify API credentials
 SPOTIPY_CLIENT_ID = '1a332a9873bc4d739adfe877e87e790f'
 SPOTIPY_CLIENT_SECRET = 'f1ec74c0bb1f471097b4631bbf19df72'
 
